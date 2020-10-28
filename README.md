@@ -8,7 +8,7 @@ src="screenshots/Trapheus.png">
   <a href="https://github.com/intuit/Trapheus/releases"><img src="https://img.shields.io/github/v/release/intuit/trapheus.svg" alt="release badge"/></a>
 </div>
 
-- [AWS RDS Snapshot Restoration](#Trapheus)
+
 - [Pre-Requisites](#pre-requisites)
 - [Parameters](#parameters)
 - [Instructions](#instructions)
